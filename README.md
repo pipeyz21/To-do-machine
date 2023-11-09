@@ -1,1 +1,2 @@
-# Primer proyecto React.js => ToDoMachine basada en Platzi
+# Primer proyecto React.js 
+ToDoMachine basada en Platzi
