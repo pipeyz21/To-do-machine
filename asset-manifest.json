@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Users/felip/OneDrive/Desktop/dev/React/To-do-machine/build/static/css/main.3bcecf50.css",
+    "main.js": "/Users/felip/OneDrive/Desktop/dev/React/To-do-machine/build/static/js/main.029b423c.js",
+    "index.html": "/Users/felip/OneDrive/Desktop/dev/React/To-do-machine/build/index.html",
+    "main.3bcecf50.css.map": "/Users/felip/OneDrive/Desktop/dev/React/To-do-machine/build/static/css/main.3bcecf50.css.map",
+    "main.029b423c.js.map": "/Users/felip/OneDrive/Desktop/dev/React/To-do-machine/build/static/js/main.029b423c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcecf50.css",
+    "static/js/main.029b423c.js"
+  ]
+}
